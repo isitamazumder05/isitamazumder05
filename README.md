@@ -4,7 +4,7 @@
 
 <h3>Computer Science & Engineering Student | AI | Software Development | DSA</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+NEXUSAI+%F0%9F%A4%96;Learning+DSA+with+C%2B%2B+%F0%9F%A7%A0;Exploring+Generative+AI+%F0%9F%A4%96;Preparing+for+Software+Engineering+Placements+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+NEXUSAI+%F0%9F%A4%96;Learning+DSA+with+C%2B%2B+%F0%9F%A7%A0;Exploring+Generative+AI+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
