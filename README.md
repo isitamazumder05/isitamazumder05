@@ -1,16 +1,117 @@
-## Hi there 👋
+# Hi, I'm Isita Mazumder 👋
 
-<!--
-**isitamazumder05/isitamazumder05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Engineering Student | AI | Software Development | DSA
 
-Here are some ideas to get you started:
+I'm a Computer Science & Engineering undergraduate at **RNS Institute of Technology (RNSIT), Bengaluru**, interested in building practical software solutions and exploring the intersection of **AI and software development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently strengthening my foundations in **Data Structures & Algorithms, C++, software development, and Generative AI** while preparing for software engineering placements.
+
+---
+
+## 🚀 Currently
+
+- 🧠 Strengthening **Data Structures & Algorithms with C++**
+- 🤖 Exploring **Generative AI and AI-powered applications**
+- 🏢 Currently undergoing **AI training at Samsung Innovation Campus**
+- 💻 Building and improving practical software projects
+- 🎓 Pursuing B.E. in **Computer Science & Engineering**
+- 📈 Preparing for software engineering placements
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`C` `C++` `Python` `JavaScript`
+
+### Web & Application Development
+`HTML` `CSS` `Tailwind CSS` `Flask` `Streamlit`
+
+### Database & Tools
+`SQLite` `Git` `GitHub` `VS Code`
+
+### AI
+`Generative AI` `LLM APIs` `Computer Vision`
+
+---
+
+## 📌 Projects
+
+### 🤖 NEXUSAI — AI-Powered Placement Preparation System
+
+An AI-powered placement preparation platform currently under development, designed to provide personalized support across **DSA, AI/ML learning, technical interviews, and placement preparation**.
+
+The system is being designed around AI-driven learning and personalized guidance, with modules including:
+
+- 🧠 DSA Coach
+- 🤖 AI Tutor
+- 🎤 Interview Coach
+- 📈 Personalized Progress Tracking
+
+**Focus:** Generative AI • LLMs • DSA • Interview Preparation • Personalized Learning
+
+---
+
+### 🧠 Mental Health Journal
+
+A UI-focused journaling application developed as a team project, designed around recording and organizing personal journal entries.
+
+**Focus:** UI Development • Application Design
+
+---
+
+### 🌱 Habit Tracker Web Application — SDG 3
+
+A habit-tracking web application developed around **SDG 3: Good Health and Well-being**, designed to encourage users to build and maintain healthier daily habits.
+
+**Focus:** Web Development • Habit Tracking • Health & Well-being • SDG 3
+
+---
+
+### 🎬 Netflix-style Watchlist
+
+A college DSA mini-project based on a Netflix-inspired movie and series watchlist concept.
+
+**Focus:** Data Structures & Algorithms • Application Logic
+
+---
+
+## 🏆 Achievements
+
+### 📜 Patent
+
+**Intelligent Multi-Level Accident Detection and Autonomous Ambulance Dispatch System with Dynamic Routing and Traffic Signal Control**
+
+A patented concept proposing an intelligent system for accident detection, autonomous ambulance dispatch, dynamic routing and traffic signal control.
+
+**Patent Publication No.: 202641005998 A**
+
+---
+
+### 🏅 Adobe University Hackathon
+
+Shortlisted for **Round 2** of the Adobe University Hackathon, advancing from approximately **3.1 lakh teams to around 23,000 teams**.
+
+---
+
+## 💼 Experience
+
+### Data Annotation Intern — Bhatiyani Astute Intelligence Pvt. Ltd.
+
+Worked on AI/ML data preparation workflows including:
+
+- Image and video annotation
+- Object detection and classification
+- Dataset documentation
+- Supporting model-training workflows
+
+---
+
+## 🎓 Education
+
+**B.E. — Computer Science & Engineering**  
+RNS Institute of Technology, Bengaluru  
+**2024 – 2028 | CGPA: 9.74/10**
+
+---
+
