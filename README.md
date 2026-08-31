@@ -22,7 +22,7 @@ I'm a Computer Science & Engineering undergraduate at **RNS Institute of Technol
 - 🏢 Currently undergoing **AI training at Samsung Innovation Campus**
 - 💻 Building and improving practical software projects
 - 🎓 Pursuing B.E. in **Computer Science & Engineering**
-- 📈 Preparing for software engineering placements
+  
 
 ---
 
