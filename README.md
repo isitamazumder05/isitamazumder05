@@ -28,18 +28,31 @@ I'm a Computer Science & Engineering undergraduate at **RNS Institute of Technol
 
 ## 🛠️ Tech Stack
 
-### Languages
-`C` `C++` `Python` `JavaScript`
+### 💻 Languages
 
-### Web & Application Development
-`HTML` `CSS` `Tailwind CSS` `Flask` `Streamlit`
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
 
-### Database & Tools
-`SQLite` `Git` `GitHub` `VS Code`
+### 🌐 Web & Application Development
 
-### AI
-`Generative AI` `LLM APIs` `Computer Vision`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,flask,streamlit" />
+</p>
 
+### 🗄️ Database & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+Learning and exploring supervised learning, ML algorithms and AI-powered applications.
 ---
 
 ## 📌 Projects
