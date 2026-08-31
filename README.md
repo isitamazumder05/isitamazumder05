@@ -1,10 +1,17 @@
-# Hi, I'm Isita Mazumder 👋
+<div align="center">
 
-### Computer Science & Engineering Student | AI | Software Development | DSA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Isita%20Mazumder&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<h3>Computer Science & Engineering Student | AI | Software Development | DSA</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+NEXUSAI+%F0%9F%A4%96;Learning+DSA+with+C%2B%2B+%F0%9F%A7%A0;Exploring+Generative+AI+%F0%9F%A4%96;Preparing+for+Software+Engineering+Placements+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+---
 
 I'm a Computer Science & Engineering undergraduate at **RNS Institute of Technology (RNSIT), Bengaluru**, interested in building practical software solutions and exploring the intersection of **AI and software development**.
 
-Currently strengthening my foundations in **Data Structures & Algorithms, C++, software development, and Generative AI** while preparing for software engineering placements.
 
 ---
 
